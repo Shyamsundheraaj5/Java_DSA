@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class printNTo1 {
+public class printNto1 {
 
     public static void printTill1(int n) {
         if (n == 0) return;
