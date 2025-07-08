@@ -17,6 +17,7 @@ Java_DSA/
 │   │   ├── factorial.java
 │   │   ├── fibonacci.java
 │   │   ├── power.java
+|   |   ├── optimizedPower.java
 │   │   ├── sumNatural.java
 │   │   ├── productNatural.java
 │   │   ├── countDigits.java
