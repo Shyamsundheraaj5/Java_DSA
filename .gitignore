@@ -1,0 +1,15 @@
+# Ignore class files
+*.class
+
+# macOS system file
+.DS_Store
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.iml
+
+# Build folders
+bin/
+out/
+target/
