@@ -1,7 +1,7 @@
 # Java DSA
 
 This repository contains my Java-based Data Structures and Algorithms (DSA) practice.  
-Problems are solved while learning from [AccioJob](https://www.acciojob.com) and other platforms like LeetCode, CodeStudio, etc.
+Problems are solved while learning from [AccioJob](https://www.acciojob.com)
 
 ---
 
