@@ -20,6 +20,7 @@ Java_DSA/
 |   |   ├── optimizedPower.java
 │   │   ├── sumNatural.java
 │   │   ├── productNatural.java
+|   |   ├── recursiveMultiplication.java
 │   │   ├── countDigits.java
 │   │   ├── digitSum.java
 │   ├── arrays/
