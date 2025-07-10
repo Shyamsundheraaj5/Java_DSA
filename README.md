@@ -28,6 +28,7 @@ Java_DSA/
 │   │   ├── printArray.java
 │   │   ├── reverseArray.java
 │   │   ├── smallestElement.java
+│   │   ├── maxOfArray.java
 │   │   ├── palindromeArray.java
 │   │   ├── arraySum.java
 │   │   ├── firstOccurrence.java
