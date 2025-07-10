@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 class towerOfHanoi{
 	static void toh(int n, int source, int auxiliary, int destination) {
