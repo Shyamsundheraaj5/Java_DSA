@@ -22,6 +22,7 @@ Java_DSA/
 │   │   ├── productNatural.java
 |   |   ├── recursiveMultiplication.java
 │   │   ├── countDigits.java
+│   │   ├── count7.java
 │   │   ├── digitSum.java
 │   ├── arrays/
 │   │   ├── printArray.java
@@ -33,7 +34,6 @@ Java_DSA/
 │   │   ├── lastOccurrence.java
 │   │   └── findIndices.java
 │   ├── strings/
-│   │   ├── count7.java
 │   │   ├── countX.java
 │   │   ├── countABC.java
 │   │   ├── removeX.java
